@@ -3,7 +3,7 @@ package io.github.thunderbots.autoseq;
 import java.io.File;
 import java.io.PrintStream;
 
-import io.github.thunderbots.sdk.opmode.SimpleOpMode;
+import io.github.thunderbots.lightning.opmode.SimpleOpMode;
 
 public class AutoSequencer {
 	
